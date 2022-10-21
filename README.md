@@ -7,6 +7,5 @@
 
 ## 📌API da Pokédex: https://pokeapi.co/;
 
-## 📌Na criação do Pokédex, foram aplicados conceito de mobile first, o consumo da API PokeAPI, utlizado funções como a "Map", 
-múltiplas requisições em paralelo, paginação.
+## 📌Na criação do Pokédex, foram aplicados conceito de mobile first, consumo da API PokeAPI, utlizado funções como a "Map", múltiplas requisições em paralelo, paginação.
 
